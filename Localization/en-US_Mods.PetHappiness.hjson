@@ -1,0 +1,15 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		priceMultiplier: {
+			Label: Price multiplier
+			Tooltip: 0.95 is a 5% decrease in price
+		}
+
+		detectionRange: {
+			Label: Pet detection range
+			Tooltip: ""
+		}
+	}
+}

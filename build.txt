@@ -1,0 +1,8 @@
+displayName = Pet Happiness
+author = NotLe0n
+version = 1.0
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = vs/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, obj/*, bin/*
+homepage = https://github.com/NotLe0n/PetHappiness
